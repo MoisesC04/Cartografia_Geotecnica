@@ -3,5 +3,5 @@
 
 Prueba de inicio en Github
 
-Estudiante: Moisés Carvajal Angarita
+Estudiante: Moisés Carvajal Angarita\
 Docente: Edier Vicente Aristizabal
